@@ -1,2 +1,3 @@
 # Algorithm
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+프로그래머스 재밌어보이는거 푸는중
+
